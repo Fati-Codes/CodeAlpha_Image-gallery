@@ -1,6 +1,6 @@
 # Pastel Polaroid Stories
 
-Build an aesthetic image gallery website using ONLY plain HTML, CSS, and vanilla JavaScript (no React, no frameworks, no Tailwind). Three files: index.html, style.css, script.js.
+Built an aesthetic image gallery website using ONLY plain HTML, CSS, and vanilla JavaScript (no React, no frameworks, no Tailwind). Three files: index.html, style.css, script.js.
 
 Aesthetic: "Dreamy film diary". Warm cream background (#faf5ee) with a subtle grain texture, soft pastel accents (dusty rose, sage, lavender), elegant typography (Playfair Display for headings, DM Sans for body). Images look like polaroids: white borders, a slight random rotation, soft drop shadows, and a handwritten-style caption (Caveat font) below each one.
 
